@@ -1,0 +1,20 @@
+{
+    "name": "example",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node dist/index.js",
+        "dev": "yarn build --watch",
+        "build": "tsc --build",
+        "lint": "eslint src/**/*.ts",
+        "lint:fix": "yarn lint --fix"
+    },
+    "devDependencies": {
+        "@types/lodash": "^4.14.194",
+        "eslint": "^8.39.0",
+        "tsconfig": "*",
+        "typescript": "^5.0.4"
+    },
+    "dependencies": {
+        "@notionx/client": "*"
+    }
+}

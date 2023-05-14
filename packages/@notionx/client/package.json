@@ -1,0 +1,35 @@
+{
+    "name": "@notionx/client",
+    "version": "0.0.1",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "dev": "yarn build --watch",
+        "build": "tsc --build",
+        "lint": "eslint src/**/*.ts",
+        "lint:fix": "yarn lint --fix"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kerwanp/notionx",
+        "directory": "packages/@notionx/client"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "devDependencies": {
+        "@types/lodash": "^4.14.194",
+        "eslint": "^8.39.0",
+        "tsconfig": "*",
+        "type-fest": "^3.10.0",
+        "typescript": "^5.0.4"
+    },
+    "dependencies": {
+        "class-transformer": "^0.5.1",
+        "lodash": "^4.17.21",
+        "p-queue": "^6.6.2",
+        "p-retry": "^4.6.2",
+        "reflect-metadata": "^0.1.13",
+        "sanitize-html": "^2.10.0"
+    }
+}
