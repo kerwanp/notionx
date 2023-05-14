@@ -1,1 +1,0 @@
-{"version":3,"file":"normalize-property-config.d.ts","sourceRoot":"","sources":["../../src/helpers/normalize-property-config.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AACnD,OAAO,EAAE,YAAY,EAAE,MAAM,qBAAqB,CAAC;AAEnD,wBAAgB,uBAAuB,CACrC,GAAG,EAAE,MAAM,EACX,MAAM,EAAE,YAAY,GAAG,cAAc,GACpC,cAAc,GAAG;IAAE,GAAG,EAAE,MAAM,CAAA;CAAE,CAalC"}

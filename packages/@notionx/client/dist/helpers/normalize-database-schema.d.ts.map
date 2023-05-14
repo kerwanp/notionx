@@ -1,1 +1,0 @@
-{"version":3,"file":"normalize-database-schema.d.ts","sourceRoot":"","sources":["../../src/helpers/normalize-database-schema.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,cAAc,EAAE,uBAAuB,EAAE,MAAM,mBAAmB,CAAC;AAE5E,wBAAgB,uBAAuB,CAAC,CAAC,SAAS,cAAc,EAC9D,MAAM,EAAE,CAAC,GACR,uBAAuB,CAAC,CAAC,CAAC,CAI5B"}
